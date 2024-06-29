@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "path:\"C Sharp Core\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#fundamentals  ",
+      "color": {
+        "a": 1,
+        "rgb": 7269981
+      }
+    },
+    {
+      "query": "tag:#ObjectOrientedProgramming  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#DeepCSharp  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#CoreCSharp  ",
+      "color": {
+        "a": 1,
+        "rgb": 6106513
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.13611750372276,
+  "lineSizeMultiplier": 1.00875863002572,
+  "collapse-forces": false,
+  "centerStrength": 0.198456748341681,
+  "repelStrength": 9.77392716935156,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.09848279275158964,
+  "close": false
+}

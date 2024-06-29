@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "30d545d5a7d90d8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "114119235e72c662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cae41029706fec8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b43315455ba5e929",
+    "type": "split",
+    "children": [
+      {
+        "id": "850c302df122005d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559b11febebfa4c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4caeba1f2a3c3719",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Инструкция",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "676c7c0383e27dfe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c7ae8974c0eabed",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef317567aa4d53b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efbe79ba1a08f783",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0606ead79811ff4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1eb2e9e38f73b0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "196992ab2bc0647f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5cae41029706fec8",
+  "lastOpenFiles": [
+    "Daily Notes/Jun 29, 2024.md",
+    "C Sharp Core/Object-Oriented Programming/Encapsulation/Classes.md",
+    "C Sharp Core/Object-Oriented Programming/Encapsulation/Encapsulation.md",
+    "C Sharp Core/Object-Oriented Programming/Object-Oriented Programming.md",
+    "Structs.md",
+    "C Sharp Core/Fundamentals/String Interpolation.md",
+    "C Sharp Core/Fundamentals/Fundamentals.md",
+    "C Sharp Core/Fundamentals/Using directives.md",
+    "C Sharp Core/Fundamentals/Namespaces.md",
+    "C Sharp Core/Fundamentals/Loops/while.md",
+    "C Sharp Core/Fundamentals/Loops/Loops.md",
+    "C Sharp Core/Fundamentals/Loops/do.md",
+    "Daily Notes/Jun 28, 2024.md",
+    "Daily Notes/Jun 27, 2024.md",
+    "C Sharp Core/Fundamentals/Loops/foreach.md",
+    "C Sharp Core/Fundamentals/Loops/for.md",
+    "C Sharp Core/Fundamentals/Variables and Data Types/Variables and Data Types.md",
+    "C Sharp Core/Fundamentals/Loops",
+    "C Sharp Core/Fundamentals/Collections/Collection Expressions.md",
+    "C Sharp Core/Fundamentals/Collections/Collections.md",
+    "C Sharp Core/C Sharp Core.md",
+    "C Sharp Core/Fundamentals/Collections/Dictionary.md",
+    "C Sharp Core/Fundamentals/Collections/List.md",
+    "C Sharp Core/Fundamentals/Collections/Array.md",
+    "C Sharp Core/Fundamentals/Conditionals/Conditionals.md",
+    "C Sharp Core/Fundamentals/Methods.md",
+    "C Sharp Core/Fundamentals/Basic Syntax.md",
+    "C Sharp Core/Fundamentals/Conditionals",
+    "C Sharp Core/Deep C Sharp/Member Modifiers",
+    "C Sharp Core/Deep C Sharp/Lambdas",
+    "C Sharp Core/Deep C Sharp/Asynchronous Programming",
+    "C Sharp Core/Object-Oriented Programming/Polymorphism",
+    "C Sharp Core/Object-Oriented Programming/Inheritance",
+    "C Sharp Core/Object-Oriented Programming/Access Modifiers",
+    "C Sharp Core/Object-Oriented Programming/Encapsulation",
+    "C Sharp Core/Fundamentals/Collections",
+    "Untitled.canvas",
+    "Без названия.canvas"
+  ]
+}
