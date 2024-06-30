@@ -14,6 +14,18 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "93e2e01c997df62d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Jun 30, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -44,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Инструкция",
+                "query": "tag:#CSharpTrash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,33 +152,35 @@
   },
   "active": "5cae41029706fec8",
   "lastOpenFiles": [
-    "Daily Notes/Jun 29, 2024.md",
-    "C Sharp Core/Object-Oriented Programming/Encapsulation/Classes.md",
+    "C Sharp Core/Object-Oriented Programming/Polymorphism/Polymorphism.md",
+    "C Sharp Core/Object-Oriented Programming/Encapsulation/Records.md",
     "C Sharp Core/Object-Oriented Programming/Encapsulation/Encapsulation.md",
+    "C Sharp Core/Object-Oriented Programming/Encapsulation/Structs.md",
+    "C Sharp Core/Object-Oriented Programming/Encapsulation/Primary Constructors.md",
+    "Daily Notes/Jun 30, 2024.md",
     "C Sharp Core/Object-Oriented Programming/Object-Oriented Programming.md",
-    "Structs.md",
-    "C Sharp Core/Fundamentals/String Interpolation.md",
-    "C Sharp Core/Fundamentals/Fundamentals.md",
+    "C Sharp Core/Object-Oriented Programming/Encapsulation/Classes.md",
+    "Daily Notes/Jun 29, 2024.md",
+    "Daily Notes/Jun 27, 2024.md",
+    "Daily Notes/Jun 28, 2024.md",
+    "Settings/Graph.md",
+    "Settings",
     "C Sharp Core/Fundamentals/Using directives.md",
+    "C Sharp Core/C Sharp Core.md",
+    "C Sharp Core/Object-Oriented Programming/Inheritance/Inheritance.md",
+    "C Sharp Core/Fundamentals/Variables and Data Types/string.md",
+    "C Sharp Core/Fundamentals/Variables and Data Types/Variables and Data Types.md",
+    "C Sharp Core/Fundamentals/Fundamentals.md",
+    "C Sharp Core/Fundamentals/Methods.md",
+    "Untitled.canvas",
+    "C Sharp Core/Fundamentals/String Interpolation.md",
     "C Sharp Core/Fundamentals/Namespaces.md",
     "C Sharp Core/Fundamentals/Loops/while.md",
     "C Sharp Core/Fundamentals/Loops/Loops.md",
     "C Sharp Core/Fundamentals/Loops/do.md",
-    "Daily Notes/Jun 28, 2024.md",
-    "Daily Notes/Jun 27, 2024.md",
     "C Sharp Core/Fundamentals/Loops/foreach.md",
     "C Sharp Core/Fundamentals/Loops/for.md",
-    "C Sharp Core/Fundamentals/Variables and Data Types/Variables and Data Types.md",
     "C Sharp Core/Fundamentals/Loops",
-    "C Sharp Core/Fundamentals/Collections/Collection Expressions.md",
-    "C Sharp Core/Fundamentals/Collections/Collections.md",
-    "C Sharp Core/C Sharp Core.md",
-    "C Sharp Core/Fundamentals/Collections/Dictionary.md",
-    "C Sharp Core/Fundamentals/Collections/List.md",
-    "C Sharp Core/Fundamentals/Collections/Array.md",
-    "C Sharp Core/Fundamentals/Conditionals/Conditionals.md",
-    "C Sharp Core/Fundamentals/Methods.md",
-    "C Sharp Core/Fundamentals/Basic Syntax.md",
     "C Sharp Core/Fundamentals/Conditionals",
     "C Sharp Core/Deep C Sharp/Member Modifiers",
     "C Sharp Core/Deep C Sharp/Lambdas",
@@ -175,8 +189,6 @@
     "C Sharp Core/Object-Oriented Programming/Inheritance",
     "C Sharp Core/Object-Oriented Programming/Access Modifiers",
     "C Sharp Core/Object-Oriented Programming/Encapsulation",
-    "C Sharp Core/Fundamentals/Collections",
-    "Untitled.canvas",
     "Без названия.canvas"
   ]
 }
