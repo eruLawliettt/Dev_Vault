@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "114119235e72c662",
+        "id": "6cb1f385d148b31e",
         "type": "tabs",
         "children": [
           {
-            "id": "5cae41029706fec8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "93e2e01c997df62d",
+            "id": "a7780576bea135c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Jun 30, 2024.md",
+                "file": "Daily Notes/Jul 01, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/Jul 01, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/Jul 01, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/Jul 01, 2024.md"
+              }
             }
           }
         ]
@@ -150,15 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cae41029706fec8",
+  "active": "a7780576bea135c0",
   "lastOpenFiles": [
     "C Sharp Core/Object-Oriented Programming/Polymorphism/Polymorphism.md",
-    "C Sharp Core/Object-Oriented Programming/Encapsulation/Records.md",
+    "Daily Notes/Jul 01, 2024.md",
+    "Daily Notes/Jun 30, 2024.md",
+    "C Sharp Core/Object-Oriented Programming/Inheritance/Inheritance.md",
+    "C Sharp Core/Deep C Sharp/Lambdas/Lambdas.md",
+    "C Sharp Core/Deep C Sharp/Deep C Sharp.md",
+    "C Sharp Core/Object-Oriented Programming/Inheritance/Abstract Classes.md",
+    "C Sharp Core/Object-Oriented Programming/Inheritance/Interfaces.md",
+    "C Sharp Core/Object-Oriented Programming/Object-Oriented Programming.md",
+    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Internal.md",
+    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Access Modifiers.md",
+    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Protected.md",
+    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Private.md",
+    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Public.md",
     "C Sharp Core/Object-Oriented Programming/Encapsulation/Encapsulation.md",
+    "C Sharp Core/Object-Oriented Programming/Encapsulation/Records.md",
     "C Sharp Core/Object-Oriented Programming/Encapsulation/Structs.md",
     "C Sharp Core/Object-Oriented Programming/Encapsulation/Primary Constructors.md",
-    "Daily Notes/Jun 30, 2024.md",
-    "C Sharp Core/Object-Oriented Programming/Object-Oriented Programming.md",
     "C Sharp Core/Object-Oriented Programming/Encapsulation/Classes.md",
     "Daily Notes/Jun 29, 2024.md",
     "Daily Notes/Jun 27, 2024.md",
@@ -167,19 +174,8 @@
     "Settings",
     "C Sharp Core/Fundamentals/Using directives.md",
     "C Sharp Core/C Sharp Core.md",
-    "C Sharp Core/Object-Oriented Programming/Inheritance/Inheritance.md",
     "C Sharp Core/Fundamentals/Variables and Data Types/string.md",
-    "C Sharp Core/Fundamentals/Variables and Data Types/Variables and Data Types.md",
-    "C Sharp Core/Fundamentals/Fundamentals.md",
-    "C Sharp Core/Fundamentals/Methods.md",
     "Untitled.canvas",
-    "C Sharp Core/Fundamentals/String Interpolation.md",
-    "C Sharp Core/Fundamentals/Namespaces.md",
-    "C Sharp Core/Fundamentals/Loops/while.md",
-    "C Sharp Core/Fundamentals/Loops/Loops.md",
-    "C Sharp Core/Fundamentals/Loops/do.md",
-    "C Sharp Core/Fundamentals/Loops/foreach.md",
-    "C Sharp Core/Fundamentals/Loops/for.md",
     "C Sharp Core/Fundamentals/Loops",
     "C Sharp Core/Fundamentals/Conditionals",
     "C Sharp Core/Deep C Sharp/Member Modifiers",
