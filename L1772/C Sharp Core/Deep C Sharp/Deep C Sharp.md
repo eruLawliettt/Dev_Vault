@@ -7,8 +7,8 @@
 [[Delegate]]
 [[Anonymous Method]]
 [[Lambdas]]
-[[Event]] <-
-[[Asynchronous Programming]]
+[[Event]] 
+[[Asynchronous Programming]] <-
 [[Exception Handling]]
 [[LINQ]]
 [[Generics]]

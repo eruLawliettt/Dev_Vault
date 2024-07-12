@@ -11,12 +11,8 @@
             "id": "218c5401374c64a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#так_можно_но_нихуя_не_нужно",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,33 +140,34 @@
   },
   "active": "218c5401374c64a0",
   "lastOpenFiles": [
-    "L1772/C Sharp Core/Deep C Sharp/Deep C Sharp.md",
-    "L1772/C Sharp Core/Deep C Sharp/Delegate.md",
+    "L1772/C Sharp Core/Deep C Sharp/Asynchronous Programming/Asynchronous Programming.md",
+    "L1772/C Sharp Core/Deep C Sharp/Asynchronous Programming/Threads.md",
     "Daily Notes/Jul 12, 2024.md",
+    "Pasted image 20240712191517.png",
+    "L1772/C Sharp Core/Deep C Sharp/Object and Collection Initializers.md",
+    "L1772/C Sharp Core/Deep C Sharp/Deep C Sharp.md",
+    "L1772/C Sharp Core/Deep C Sharp/Event.md",
+    "Pasted image 20240712182556.png",
+    "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md",
+    "L1772/C Sharp Core/Deep C Sharp/Delegate.md",
     "Daily Notes/Jul 11, 2024.md",
     "Daily Notes/Jul 07, 2024.md",
     "L1772/C Sharp Core/C Sharp Core.md",
     "L1772/C Sharp Core/Object-Oriented Programming/Object-Oriented Programming.md",
     "L1772/C Sharp Core/Fundamentals/Fundamentals.md",
-    "L1772/C Sharp Core/Deep C Sharp/Asynchronous Programming/Asynchronous Programming.md",
     "L1772/C Sharp Core/Deep C Sharp/Member Modifiers/Member Modifiers.md",
-    "Threads.md",
-    "L1772/C Sharp Core/Deep C Sharp/Event.md",
     "Untitled.canvas",
     "L1772/C Sharp Core/Fundamentals/Conditionals/ternary operators.md",
     "L1772/C Sharp Core/Object-Oriented Programming/Access Modifiers/Private.md",
     "L1772/C Sharp Core/Deep C Sharp/Lambdas.md",
     "L1772/C Sharp Core/Deep C Sharp/Enums.md",
-    "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md",
     "Daily Notes/Jul 06, 2024.md",
     "L1772/C Sharp Core/Deep C Sharp/Lambdas/Arrow Functions.md",
-    "L1772/C Sharp Core/Deep C Sharp/Object and Collection Initializers.md",
     "L1772/Git/Создание репозитория и подключение к GitHub.md",
     "L1772/Git/Git.md",
     "Daily Notes/Jun 29, 2024.md",
     "Daily Notes/Jun 28, 2024.md",
     "Daily Notes/Jun 27, 2024.md",
-    "Daily Notes/Jul 01, 2024.md",
     "L1772",
     "L1772/Git",
     "psycho",
