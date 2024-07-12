@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6cb1f385d148b31e",
+        "id": "6813748ab98892a3",
         "type": "tabs",
         "children": [
           {
-            "id": "a7780576bea135c0",
+            "id": "218c5401374c64a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CSharpTrash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md"
+              }
             }
           }
         ]
@@ -138,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7780576bea135c0",
+  "active": "218c5401374c64a0",
   "lastOpenFiles": [
-    "C Sharp Core/Object-Oriented Programming/Polymorphism/Using Base Classes.md",
-    "C Sharp Core/Object-Oriented Programming/Polymorphism/Polymorphism.md",
-    "C Sharp Core/Object-Oriented Programming/Polymorphism/Override.md",
-    "C Sharp Core/Object-Oriented Programming/Polymorphism/Virtual.md",
-    "C Sharp Core/Object-Oriented Programming/Inheritance/Inheritance.md",
-    "C Sharp Core/Object-Oriented Programming/Inheritance/Abstract Classes.md",
-    "psycho/Набор мыслей для проекта.md",
-    "Daily Notes/Jul 03, 2024.md",
-    "psycho",
-    "Daily Notes/Jul 02, 2024.md",
-    "Daily Notes/Jul 01, 2024.md",
-    "Daily Notes/Jun 30, 2024.md",
-    "C Sharp Core/Deep C Sharp/Lambdas/Lambdas.md",
-    "C Sharp Core/Deep C Sharp/Deep C Sharp.md",
-    "C Sharp Core/Object-Oriented Programming/Inheritance/Interfaces.md",
-    "C Sharp Core/Object-Oriented Programming/Object-Oriented Programming.md",
-    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Internal.md",
-    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Access Modifiers.md",
-    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Protected.md",
-    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Private.md",
-    "C Sharp Core/Object-Oriented Programming/Access Modifiers/Public.md",
-    "C Sharp Core/Object-Oriented Programming/Encapsulation/Encapsulation.md",
-    "C Sharp Core/Object-Oriented Programming/Encapsulation/Records.md",
-    "C Sharp Core/Object-Oriented Programming/Encapsulation/Structs.md",
-    "C Sharp Core/Object-Oriented Programming/Encapsulation/Primary Constructors.md",
-    "C Sharp Core/Object-Oriented Programming/Encapsulation/Classes.md",
-    "Daily Notes/Jun 29, 2024.md",
-    "Settings",
+    "L1772/C Sharp Core/Deep C Sharp/Deep C Sharp.md",
+    "L1772/C Sharp Core/Deep C Sharp/Delegate.md",
+    "Daily Notes/Jul 12, 2024.md",
+    "Daily Notes/Jul 11, 2024.md",
+    "Daily Notes/Jul 07, 2024.md",
+    "L1772/C Sharp Core/C Sharp Core.md",
+    "L1772/C Sharp Core/Object-Oriented Programming/Object-Oriented Programming.md",
+    "L1772/C Sharp Core/Fundamentals/Fundamentals.md",
+    "L1772/C Sharp Core/Deep C Sharp/Asynchronous Programming/Asynchronous Programming.md",
+    "L1772/C Sharp Core/Deep C Sharp/Member Modifiers/Member Modifiers.md",
+    "Threads.md",
+    "L1772/C Sharp Core/Deep C Sharp/Event.md",
     "Untitled.canvas",
-    "C Sharp Core/Fundamentals/Loops",
-    "C Sharp Core/Fundamentals/Conditionals",
-    "C Sharp Core/Deep C Sharp/Member Modifiers",
-    "C Sharp Core/Deep C Sharp/Lambdas",
-    "C Sharp Core/Deep C Sharp/Asynchronous Programming",
-    "C Sharp Core/Object-Oriented Programming/Polymorphism",
-    "C Sharp Core/Object-Oriented Programming/Inheritance",
-    "C Sharp Core/Object-Oriented Programming/Access Modifiers",
+    "L1772/C Sharp Core/Fundamentals/Conditionals/ternary operators.md",
+    "L1772/C Sharp Core/Object-Oriented Programming/Access Modifiers/Private.md",
+    "L1772/C Sharp Core/Deep C Sharp/Lambdas.md",
+    "L1772/C Sharp Core/Deep C Sharp/Enums.md",
+    "L1772/C Sharp Core/Deep C Sharp/Anonymous Method.md",
+    "Daily Notes/Jul 06, 2024.md",
+    "L1772/C Sharp Core/Deep C Sharp/Lambdas/Arrow Functions.md",
+    "L1772/C Sharp Core/Deep C Sharp/Object and Collection Initializers.md",
+    "L1772/Git/Создание репозитория и подключение к GitHub.md",
+    "L1772/Git/Git.md",
+    "Daily Notes/Jun 29, 2024.md",
+    "Daily Notes/Jun 28, 2024.md",
+    "Daily Notes/Jun 27, 2024.md",
+    "Daily Notes/Jul 01, 2024.md",
+    "L1772",
+    "L1772/Git",
+    "psycho",
+    "Settings",
+    "L1772/C Sharp Core/Fundamentals/Loops",
+    "L1772/C Sharp Core/Fundamentals/Conditionals",
+    "L1772/C Sharp Core/Deep C Sharp/Member Modifiers",
+    "L1772/C Sharp Core/Deep C Sharp/Lambdas",
+    "L1772/C Sharp Core/Deep C Sharp/Asynchronous Programming",
+    "L1772/C Sharp Core/Object-Oriented Programming/Polymorphism",
     "Без названия.canvas"
   ]
 }

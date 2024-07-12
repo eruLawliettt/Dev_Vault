@@ -1,4 +1,5 @@
 #fundamentals
+[[C Sharp Core]]
 
 [[Basic Syntax]]
 [[Variables and Data Types]]
@@ -9,5 +10,3 @@
 [[Namespaces]]
 [[Using directives]]
 [[String Interpolation]]
-
-Идём дальше -> [[Object-Oriented Programming]]

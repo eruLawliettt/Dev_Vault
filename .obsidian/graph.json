@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"C Sharp Core\"  ",
+  "collapse-filter": false,
+  "search": "path:L1772  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 6106513
       }
+    },
+    {
+      "query": "tag:#Git ",
+      "color": {
+        "a": 1,
+        "rgb": 16738565
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 9.77392716935156,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4025207880304571,
+  "scale": 0.17295436976894402,
   "close": false
 }
