@@ -1,5 +1,5 @@
 #ObjectOrientedProgramming
-[[C Sharp Core]]
+[[C Sharp]]
 
 [[Encapsulation]]
 [[Access Modifiers]]

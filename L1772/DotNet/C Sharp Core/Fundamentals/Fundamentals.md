@@ -1,5 +1,5 @@
 #fundamentals
-[[C Sharp Core]]
+[[C Sharp]]
 
 [[Basic Syntax]]
 [[Variables and Data Types]]

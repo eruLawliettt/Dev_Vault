@@ -2,6 +2,5 @@
 [[Deep C Sharp]]
 
 [[Threads]] 
-[[Tasks]] <-
-[[Async]]
-[[Await]]
+[[Tasks]] 
+[[Async and Await]]

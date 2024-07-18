@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#CoreCSharp  ",
+      "query": "tag:#DotNet",
       "color": {
         "a": 1,
         "rgb": 6106513
@@ -53,6 +53,6 @@
   "repelStrength": 9.77392716935156,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4025207880304573,
+  "scale": 0.40252078803045727,
   "close": false
 }
